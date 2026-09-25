@@ -92,4 +92,4 @@ assets/fallback-models.js     内置免费模型快照（断网兜底）
 
 ## License
 
-未指定。默认版权归你，需要的话可以补一个 `LICENSE`（MIT 之类）。
+MIT —— 见 [LICENSE](LICENSE)。Copyright (c) 2026 ph911。
